@@ -1,2 +1,7 @@
 # classroom-zion-starter-1
-starter python code to process two numbers
+
+Coding sames in Java
+
+[Download the report](/README-java.md)
+
+
